@@ -1,5 +1,5 @@
 # matlabProject
-A matlab program that for the following four questions
+A matlab program for the following four problems
 
 * Temperature measurement using Multi-Channel sensors 
 * solving system of linear equations
